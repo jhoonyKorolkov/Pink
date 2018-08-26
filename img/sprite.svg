@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs><symbol id="icon-editor-contrast" viewBox="-35.422 -7.96 31.92 31.92"><path d="M-19.462-3.96c6.595 0 11.96 5.365 11.96 11.96s-5.365 11.96-11.96 11.96-11.96-5.365-11.96-11.96 5.365-11.96 11.96-11.96m0-4c-8.814 0-15.96 7.145-15.96 15.96 0 8.813 7.146 15.96 15.96 15.96S-3.502 16.813-3.502 8c0-8.815-7.146-15.96-15.96-15.96z"/><path d="M-19.462 16.331a8.519 8.519 0 0 0 8.52-8.52 8.518 8.518 0 0 0-8.52-8.519"/></symbol><symbol id="icon-editor-crop"><path d="M34 30h4V14c0-2.21-1.79-4-4-4H18v4h16v16zm-20 4V2h-4v8H2v4h8v20c0 2.21 1.79 4 4 4h20v8h4v-8h8v-4H14z"/></symbol><symbol id="icon-editor-fill"><path d="M33.12 17.88L15.24 0l-2.83 2.83 4.76 4.76L6.88 17.88a3 3 0 0 0 0 4.24l11 11c.58.59 1.35.88 2.12.88s1.54-.29 2.12-.88l11-11a3 3 0 0 0 0-4.24zM10.41 20L20 10.42 29.59 20H10.41zM38 23s-4 4.33-4 7c0 2.21 1.79 4 4 4s4-1.79 4-4c0-2.67-4-7-4-7zM0 40h48v3H0z"/></symbol><symbol id="icon-left-arrow" viewBox="0 0 22 41">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+
+  <image id="left-arrow.svg" class="cls-1" width="22" height="41" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAApBAMAAADDtsRwAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAHlBMVEUoNkX///8oNkUoNkUoNkUoNkUoNkUoNkUoNkUAAABC67eKAAAACXRSTlMAAAU/TQ5IMB1WBWznAAAAAWJLR0QJ8dml7AAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+IIGgsdHH+0M6EAAACNSURBVBjTbZHBDYAgDEV7IXLFxAFcgbiBJjABEzAABwfwwOAC0uY3kdPLCynlf6J53HqQcDqFt+yF07kzmuwdaAeaOQXHbHIRroGY7VWEm2bumrnryUNPrpGY7fUI35GYl08PnnrwGPLj8T7OUfPxXbUP7qn2x3+p/2IOKh/MTeWJOav8sRfVF/bY+n0BoQMjFvBftt0AAAAASUVORK5CYII="/>
+</symbol><symbol id="icon-right-arrow" viewBox="0 0 22 41">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+
+  <image id="right-arrow.svg" class="cls-1" width="22" height="41" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAApBAMAAADDtsRwAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAHlBMVEUoNkX///8oNkUoNkUoNkUoNkUoNkUoNkUoNkUAAABC67eKAAAACXRSTlMAAE0/BUgOMB2DCrLiAAAAAWJLR0QJ8dml7AAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+IIGgscOFqs5jEAAACKSURBVBjTbZExDoAgDEU7mODKpDPG6OwJTLyDs1fQE6gnFxDbN8j0wiOl/ZVulny89zKtxku/KVdFJP5E5iIyF/GyHKuxS6KwHKOxC6dyEspRKEdh7MKlLPdoXEchKgbjNuzK/h6Mm/B7z/eow/r4l/2gT/aPuTgvcmA+yA15Mmfkz71wX9wj9vsABU4gY8IouqwAAAAASUVORK5CYII="/>
+</symbol></svg>
