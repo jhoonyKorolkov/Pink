@@ -207,7 +207,11 @@
 		padding: 0;
 	}
 	/****************Gajet**********************/
-	/********************************Reviews****/
+  /********************************Reviews****/
+  .slider__control-left, .slider__control-right  {
+    display: none;
+  }
+
 	.reviews__items {
 		padding: 0;
 	}

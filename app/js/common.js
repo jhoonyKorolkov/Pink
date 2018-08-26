@@ -28,8 +28,8 @@
 	$(document).ready(function(){
 		
 $('.slider').slick({
-  prevArrow: "<img src='https://svgshare.com/i/6Ei.svg' class='prev' alt='1'>",
-	nextArrow: "<img src='https://svgshare.com/i/6Gf.svg' class='next' alt='2'>",
+  prevArrow: ".slider__control-left",
+	nextArrow: ".slider__control-right",
 	slidesToShow: 1,
 	autoplay: true,
 	autoplaySpeed: 5000,

@@ -282,6 +282,10 @@ strong {
 
 /***************Reviews*********************/
 
+.reviews {
+  position: relative;
+}
+
 .reviews__items {
 	text-align: center;
 	padding-top: 120px;
@@ -319,19 +323,24 @@ strong {
 	position: relative;
 }
 
-.next,
-.prev {
-	position: absolute;
-	top: 130px;
-	height: 60px;
-	width: 50px;
-	z-index: 1;
-	cursor: pointer;
+.slider__control-left, .slider__control-right {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  cursor: pointer;
 }
 
-.next {
-	right: 0;
+.slider__control-left {
+  left: -20px;
+  bottom: 120px;
+
 }
+
+.slider__control-right  {
+  right: -20px;
+  bottom: 120px;
+}
+
 
 .wrapper__map {
 	z-index: 2500;
